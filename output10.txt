@@ -1,0 +1,5 @@
+The number in base 2 is :101110
+The number in base 10 is : 46
+-------------------------
+The number in base 10 is : 67
+The number in base 2 is :1000011
